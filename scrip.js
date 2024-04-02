@@ -344,7 +344,7 @@ handlers.equipItem = function (args, context) {
     return returnResult;
 };
 
-handlers.testFunctionFromGitHub = function ( args, context){
+handlers.testFunctionFromGitHubUpdated = function ( args, context){
     console.log("called the test function");
     return "this is the test function result";
 }
